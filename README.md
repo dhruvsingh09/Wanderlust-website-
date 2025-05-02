@@ -23,3 +23,4 @@ Wanderlust is a full-stack web application inspired by Airbnb, allowing users to
 - **Authentication**: JWT (JSON Web Tokens), bcrypt
 - **Deployment**: Render / Vercel / Netlify (Frontend), Render / Railway / Heroku (Backend)
 
+## 👨‍💻 Author :Dhruv Singh
